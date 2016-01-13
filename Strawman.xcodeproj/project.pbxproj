@@ -1,0 +1,467 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		91087E021C3CF4F900E4D6B4 /* tabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91087E011C3CF4F900E4D6B4 /* tabBarController.swift */; };
+		91087E481C3D66F000E4D6B4 /* AboutMetableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91087E471C3D66F000E4D6B4 /* AboutMetableViewController.swift */; };
+		91087E4A1C3DF92200E4D6B4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91087E491C3DF92200E4D6B4 /* Images.xcassets */; };
+		91087E9D1C3F8AC400E4D6B4 /* BackGround.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91087E9C1C3F8AC400E4D6B4 /* BackGround.swift */; };
+		9116441E1C422A1B00F9777F /* CookTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9116441C1C422A1B00F9777F /* CookTableViewCell.swift */; };
+		9116441F1C422A1B00F9777F /* CookTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9116441D1C422A1B00F9777F /* CookTableViewCell.xib */; };
+		911644221C4241B000F9777F /* vagetable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 911644211C4241B000F9777F /* vagetable.swift */; };
+		911644261C4249F400F9777F /* vageList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 911644251C4249F400F9777F /* vageList.swift */; };
+		911644281C4264FC00F9777F /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 911644271C4264FC00F9777F /* CustomCell.swift */; };
+		91B574291C3FF23C0074D8B9 /* AboutMeNavController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B574281C3FF23C0074D8B9 /* AboutMeNavController.swift */; };
+		91B5742B1C41FF310074D8B9 /* CookOnlieTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B5742A1C41FF310074D8B9 /* CookOnlieTableViewController.swift */; };
+		91BF38A61C469839002D43A9 /* BuyStep1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91BF38A51C469839002D43A9 /* BuyStep1ViewController.swift */; };
+		91D4BF251C42939700A04A4E /* CookMovieViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91D4BF241C42939700A04A4E /* CookMovieViewController.swift */; };
+		91D4BF271C4299AD00A04A4E /* ForCookNavController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91D4BF261C4299AD00A04A4E /* ForCookNavController.swift */; };
+		91E0AB2A1C46871600D61A5A /* FBLoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E0AB291C46871600D61A5A /* FBLoginViewController.swift */; };
+		91E1BF2D1C377CBB00D15B41 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E1BF2C1C377CBB00D15B41 /* AppDelegate.swift */; };
+		91E1BF2F1C377CBB00D15B41 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E1BF2E1C377CBB00D15B41 /* ViewController.swift */; };
+		91E1BF321C377CBB00D15B41 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91E1BF301C377CBB00D15B41 /* Main.storyboard */; };
+		91E1BF341C377CBB00D15B41 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91E1BF331C377CBB00D15B41 /* Assets.xcassets */; };
+		91E1BF371C377CBB00D15B41 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91E1BF351C377CBB00D15B41 /* LaunchScreen.storyboard */; };
+		91F7FF9E1C43F31F00B50E66 /* PickPeopleNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91F7FF9D1C43F31F00B50E66 /* PickPeopleNumber.swift */; };
+		CF1545AB372910D967A26A60 /* Pods_vagetableSale.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B1C4C8A5CD4F74564D1CD322 /* Pods_vagetableSale.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		26A9724A3E6AAB56215AB04E /* Pods-vagetableSale.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-vagetableSale.release.xcconfig"; path = "Pods/Target Support Files/Pods-vagetableSale/Pods-vagetableSale.release.xcconfig"; sourceTree = "<group>"; };
+		26CE6A52687AB00F16612A16 /* Pods-vagetableSale.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-vagetableSale.debug.xcconfig"; path = "Pods/Target Support Files/Pods-vagetableSale/Pods-vagetableSale.debug.xcconfig"; sourceTree = "<group>"; };
+		91087E011C3CF4F900E4D6B4 /* tabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = tabBarController.swift; path = ../tabBarController.swift; sourceTree = "<group>"; };
+		91087E471C3D66F000E4D6B4 /* AboutMetableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AboutMetableViewController.swift; path = ../AboutMetableViewController.swift; sourceTree = "<group>"; };
+		91087E491C3DF92200E4D6B4 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		91087E9C1C3F8AC400E4D6B4 /* BackGround.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BackGround.swift; path = ../BackGround.swift; sourceTree = "<group>"; };
+		9116441C1C422A1B00F9777F /* CookTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CookTableViewCell.swift; path = ../CookTableViewCell.swift; sourceTree = "<group>"; };
+		9116441D1C422A1B00F9777F /* CookTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = CookTableViewCell.xib; path = ../CookTableViewCell.xib; sourceTree = "<group>"; };
+		911644211C4241B000F9777F /* vagetable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = vagetable.swift; sourceTree = "<group>"; };
+		911644251C4249F400F9777F /* vageList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = vageList.swift; path = ../vageList.swift; sourceTree = "<group>"; };
+		911644271C4264FC00F9777F /* CustomCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CustomCell.swift; path = ../CustomCell.swift; sourceTree = "<group>"; };
+		91B574281C3FF23C0074D8B9 /* AboutMeNavController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AboutMeNavController.swift; path = ../AboutMeNavController.swift; sourceTree = "<group>"; };
+		91B5742A1C41FF310074D8B9 /* CookOnlieTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CookOnlieTableViewController.swift; path = ../CookOnlieTableViewController.swift; sourceTree = "<group>"; };
+		91BF38A51C469839002D43A9 /* BuyStep1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BuyStep1ViewController.swift; path = ../BuyStep1ViewController.swift; sourceTree = "<group>"; };
+		91D4BF241C42939700A04A4E /* CookMovieViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CookMovieViewController.swift; path = ../CookMovieViewController.swift; sourceTree = "<group>"; };
+		91D4BF261C4299AD00A04A4E /* ForCookNavController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ForCookNavController.swift; path = ../ForCookNavController.swift; sourceTree = "<group>"; };
+		91E0AB291C46871600D61A5A /* FBLoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FBLoginViewController.swift; sourceTree = "<group>"; };
+		91E1BF291C377CBB00D15B41 /* Strawman.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Strawman.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		91E1BF2C1C377CBB00D15B41 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		91E1BF2E1C377CBB00D15B41 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		91E1BF311C377CBB00D15B41 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		91E1BF331C377CBB00D15B41 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		91E1BF361C377CBB00D15B41 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		91E1BF381C377CBB00D15B41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		91F7FF9D1C43F31F00B50E66 /* PickPeopleNumber.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PickPeopleNumber.swift; sourceTree = "<group>"; };
+		B1C4C8A5CD4F74564D1CD322 /* Pods_vagetableSale.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_vagetableSale.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		91E1BF261C377CBB00D15B41 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CF1545AB372910D967A26A60 /* Pods_vagetableSale.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		36AB6A5D66BAF2C9B31D6581 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B1C4C8A5CD4F74564D1CD322 /* Pods_vagetableSale.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		55DC0E67D408CB2DFF649D39 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				26CE6A52687AB00F16612A16 /* Pods-vagetableSale.debug.xcconfig */,
+				26A9724A3E6AAB56215AB04E /* Pods-vagetableSale.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		91087E9B1C3F8A8100E4D6B4 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				91BF38A51C469839002D43A9 /* BuyStep1ViewController.swift */,
+				91B574281C3FF23C0074D8B9 /* AboutMeNavController.swift */,
+				91087E9C1C3F8AC400E4D6B4 /* BackGround.swift */,
+				91E1BF2E1C377CBB00D15B41 /* ViewController.swift */,
+				91087E011C3CF4F900E4D6B4 /* tabBarController.swift */,
+				91E0AB291C46871600D61A5A /* FBLoginViewController.swift */,
+				91087E471C3D66F000E4D6B4 /* AboutMetableViewController.swift */,
+				91B5742A1C41FF310074D8B9 /* CookOnlieTableViewController.swift */,
+				9116441C1C422A1B00F9777F /* CookTableViewCell.swift */,
+				9116441D1C422A1B00F9777F /* CookTableViewCell.xib */,
+				91E1BF2C1C377CBB00D15B41 /* AppDelegate.swift */,
+				91D4BF261C4299AD00A04A4E /* ForCookNavController.swift */,
+				91D4BF241C42939700A04A4E /* CookMovieViewController.swift */,
+				911644201C42415C00F9777F /* Modal */,
+				91F7FF9D1C43F31F00B50E66 /* PickPeopleNumber.swift */,
+			);
+			name = ViewController;
+			sourceTree = "<group>";
+		};
+		911644201C42415C00F9777F /* Modal */ = {
+			isa = PBXGroup;
+			children = (
+				911644211C4241B000F9777F /* vagetable.swift */,
+				911644251C4249F400F9777F /* vageList.swift */,
+			);
+			name = Modal;
+			sourceTree = "<group>";
+		};
+		91ABF4911C4268E20002F892 /* NoUse */ = {
+			isa = PBXGroup;
+			children = (
+				911644271C4264FC00F9777F /* CustomCell.swift */,
+			);
+			name = NoUse;
+			sourceTree = "<group>";
+		};
+		91E1BF201C377CBB00D15B41 = {
+			isa = PBXGroup;
+			children = (
+				91E1BF2B1C377CBB00D15B41 /* Strawman */,
+				91E1BF2A1C377CBB00D15B41 /* Products */,
+				55DC0E67D408CB2DFF649D39 /* Pods */,
+				36AB6A5D66BAF2C9B31D6581 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		91E1BF2A1C377CBB00D15B41 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				91E1BF291C377CBB00D15B41 /* Strawman.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		91E1BF2B1C377CBB00D15B41 /* Strawman */ = {
+			isa = PBXGroup;
+			children = (
+				91087E9B1C3F8A8100E4D6B4 /* ViewController */,
+				91E1BF301C377CBB00D15B41 /* Main.storyboard */,
+				91ABF4911C4268E20002F892 /* NoUse */,
+				91E1BF331C377CBB00D15B41 /* Assets.xcassets */,
+				91E1BF351C377CBB00D15B41 /* LaunchScreen.storyboard */,
+				91E1BF381C377CBB00D15B41 /* Info.plist */,
+				91087E491C3DF92200E4D6B4 /* Images.xcassets */,
+			);
+			name = Strawman;
+			path = vagetableSale;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		91E1BF281C377CBB00D15B41 /* vagetableSale */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 91E1BF3B1C377CBB00D15B41 /* Build configuration list for PBXNativeTarget "vagetableSale" */;
+			buildPhases = (
+				30A2321DFA8E2EC3829A805D /* Check Pods Manifest.lock */,
+				91E1BF251C377CBB00D15B41 /* Sources */,
+				91E1BF261C377CBB00D15B41 /* Frameworks */,
+				91E1BF271C377CBB00D15B41 /* Resources */,
+				D5BF423996827125A50817AC /* Embed Pods Frameworks */,
+				F04DC0BB1E9F0CF32C733B6D /* Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = vagetableSale;
+			productName = vagetableSale;
+			productReference = 91E1BF291C377CBB00D15B41 /* Strawman.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		91E1BF211C377CBB00D15B41 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = "";
+				TargetAttributes = {
+					91E1BF281C377CBB00D15B41 = {
+						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = 8H7X36TF25;
+					};
+				};
+			};
+			buildConfigurationList = 91E1BF241C377CBB00D15B41 /* Build configuration list for PBXProject "Strawman" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 91E1BF201C377CBB00D15B41;
+			productRefGroup = 91E1BF2A1C377CBB00D15B41 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				91E1BF281C377CBB00D15B41 /* vagetableSale */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		91E1BF271C377CBB00D15B41 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91E1BF371C377CBB00D15B41 /* LaunchScreen.storyboard in Resources */,
+				91087E4A1C3DF92200E4D6B4 /* Images.xcassets in Resources */,
+				91E1BF341C377CBB00D15B41 /* Assets.xcassets in Resources */,
+				9116441F1C422A1B00F9777F /* CookTableViewCell.xib in Resources */,
+				91E1BF321C377CBB00D15B41 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		30A2321DFA8E2EC3829A805D /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		D5BF423996827125A50817AC /* Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-vagetableSale/Pods-vagetableSale-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F04DC0BB1E9F0CF32C733B6D /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-vagetableSale/Pods-vagetableSale-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		91E1BF251C377CBB00D15B41 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91E1BF2F1C377CBB00D15B41 /* ViewController.swift in Sources */,
+				9116441E1C422A1B00F9777F /* CookTableViewCell.swift in Sources */,
+				911644281C4264FC00F9777F /* CustomCell.swift in Sources */,
+				91BF38A61C469839002D43A9 /* BuyStep1ViewController.swift in Sources */,
+				91D4BF271C4299AD00A04A4E /* ForCookNavController.swift in Sources */,
+				91D4BF251C42939700A04A4E /* CookMovieViewController.swift in Sources */,
+				91B5742B1C41FF310074D8B9 /* CookOnlieTableViewController.swift in Sources */,
+				91F7FF9E1C43F31F00B50E66 /* PickPeopleNumber.swift in Sources */,
+				911644221C4241B000F9777F /* vagetable.swift in Sources */,
+				91B574291C3FF23C0074D8B9 /* AboutMeNavController.swift in Sources */,
+				91087E9D1C3F8AC400E4D6B4 /* BackGround.swift in Sources */,
+				911644261C4249F400F9777F /* vageList.swift in Sources */,
+				91087E021C3CF4F900E4D6B4 /* tabBarController.swift in Sources */,
+				91087E481C3D66F000E4D6B4 /* AboutMetableViewController.swift in Sources */,
+				91E1BF2D1C377CBB00D15B41 /* AppDelegate.swift in Sources */,
+				91E0AB2A1C46871600D61A5A /* FBLoginViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		91E1BF301C377CBB00D15B41 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				91E1BF311C377CBB00D15B41 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		91E1BF351C377CBB00D15B41 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				91E1BF361C377CBB00D15B41 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		91E1BF391C377CBB00D15B41 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		91E1BF3A1C377CBB00D15B41 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		91E1BF3C1C377CBB00D15B41 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 26CE6A52687AB00F16612A16 /* Pods-vagetableSale.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = vagetableSale/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.Strawman;
+				PRODUCT_NAME = Strawman;
+				PROVISIONING_PROFILE = "";
+			};
+			name = Debug;
+		};
+		91E1BF3D1C377CBB00D15B41 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 26A9724A3E6AAB56215AB04E /* Pods-vagetableSale.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = vagetableSale/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.Strawman;
+				PRODUCT_NAME = Strawman;
+				PROVISIONING_PROFILE = "";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		91E1BF241C377CBB00D15B41 /* Build configuration list for PBXProject "Strawman" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				91E1BF391C377CBB00D15B41 /* Debug */,
+				91E1BF3A1C377CBB00D15B41 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		91E1BF3B1C377CBB00D15B41 /* Build configuration list for PBXNativeTarget "vagetableSale" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				91E1BF3C1C377CBB00D15B41 /* Debug */,
+				91E1BF3D1C377CBB00D15B41 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 91E1BF211C377CBB00D15B41 /* Project object */;
+}

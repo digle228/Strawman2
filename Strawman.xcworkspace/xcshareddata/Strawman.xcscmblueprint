@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AF41B72124CB5E758B071CCFDC680A57F5E9F4FB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0B9D1296A0337EF7C28C3F9C1D4696276D5156E7" : 0,
+    "AF41B72124CB5E758B071CCFDC680A57F5E9F4FB" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "52240912-CF9B-4622-99E0-AC4069F773D5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0B9D1296A0337EF7C28C3F9C1D4696276D5156E7" : "",
+    "AF41B72124CB5E758B071CCFDC680A57F5E9F4FB" : "Strawman\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Strawman",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Strawman.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/digle228\/master.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0B9D1296A0337EF7C28C3F9C1D4696276D5156E7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/digle228\/Strawman.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AF41B72124CB5E758B071CCFDC680A57F5E9F4FB"
+    }
+  ]
+}
